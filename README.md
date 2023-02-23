@@ -1,7 +1,7 @@
 # Demo
 This is Demo!
 
-Hello .. I'm modifying this file...
+Hello .. Practicing learning git...
 
 ### Some changes
 Modifying file for feature_readme_instruction file
